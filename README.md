@@ -1,1 +1,1 @@
-![json file](https://github.com/KulinichevaKarina/Docker/assets/128910247/16444147-d12e-41c0-a504-38ccd07d5f70)
+![скрин постман](https://github.com/KulinichevaKarina/Docker/assets/128910247/d0a9ec97-3ffd-4503-8b4b-69fdfbfd20cc)
